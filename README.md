@@ -10,4 +10,5 @@ NCEAS training for intro to github
 
 ## Creator
 -A Medina UAF CFOS reach out at [email](mailto:avmedina3@alaska.edu)
+- I had to do this again because it changed,,
 
