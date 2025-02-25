@@ -5,4 +5,9 @@ NCEAS training for intro to github
 
 - Create a remote repository on Github
 - Practice git workflow
-commit
+- making a change now 
+
+
+## Creator
+-A Medina UAF CFOS reach out at [email](mailto:avmedina3@alaska.edu)
+
